@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Oakland Athletics",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/100px-Oakland_A%27s_logo.svg.png",
+    "stadium": "Oakland Coliseum",
+    "worldseries": "9"
+  },
+  {
+    "id": 2,
+    "name": "Minnesota Twins",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Minnesota_Twins_logo_%28low_res%29.svg/100px-Minnesota_Twins_logo_%28low_res%29.svg.png",
+    "stadium": "Target Field",
+    "worldseries": "3"
+  },
+  {
+    "id": 3,
+    "name": "Miami Marlins",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/Marlins_team_logo.svg/103px-Marlins_team_logo.svg.png",
+    "stadium": "Marlins Park",
+    "worldseries": "2"
+  },
+  {
+    "id": 4,
+    "name": "Seattle Mariners",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Seattle_Mariners_logo_%28low_res%29.svg/100px-Seattle_Mariners_logo_%28low_res%29.svg.png",
+    "stadium": "T-Mobile Park",
+    "worldseries": "0"
+  },
+  {
+    "id": 5,
+    "name": "Los Angelese Dodgers",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Los_Angeles_Dodgers_logo_%28low_res%29.svg/96px-Los_Angeles_Dodgers_logo_%28low_res%29.svg.png",
+    "stadium": "Dodger stadium",
+    "worldseries": "6"
+  },
+  {
+    "id": 6,
+    "name": "St. Louis Cardinals",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/St._Louis_Cardinals_logo.svg/105px-St._Louis_Cardinals_logo.svg.png",
+    "stadium": "Busch stadium",
+    "worldseries": "13"
+  },
+  {
+    "id": 7,
+    "name": "Milwaukee Brewers",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Milwaukee_Brewers_logo.svg/100px-Milwaukee_Brewers_logo.svg.png",
+    "stadium": "Miller Park",
+    "worldseries": "0"
+  },
+  {
+    "id": 8,
+    "name": "Chicago Cubs",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Chicago_Cubs_logo.svg/99px-Chicago_Cubs_logo.svg.png",
+    "stadium": "Wrigley Field",
+    "worldseries": "3"
+  },
+  {
+    "id": 9,
+    "name": "New York Mets",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/100px-New_York_Mets.svg.png",
+    "stadium": "Citi Field",
+    "worldseries": "2"
+  },
+  {
+    "id": 10,
+    "name": "New York Yankees",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/25/NewYorkYankees_PrimaryLogo.svg/90px-NewYorkYankees_PrimaryLogo.svg.png",
+    "stadium": "Yankee stadium",
+    "worldseries": "27"
+  }
+]

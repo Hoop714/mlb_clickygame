@@ -1,0 +1,19 @@
+.footer {
+    background: #3e63bd;
+    clear: both;
+    position: relative;
+    height: 100%;
+    padding: 10px;
+    text-align: center;
+}
+
+#footer-text {
+    color: #ffffff;
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+#react {
+    font-size: 16px;
+    margin-top: 5px;
+}

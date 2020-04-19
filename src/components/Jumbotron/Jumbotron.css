@@ -1,0 +1,29 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(https://liquid-blue.com/wp-content/uploads/2018/11/mlb-logo.png);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 58px;
+    border-radius: 0;
+    color: red;
+    text-shadow: rgb(56, 56, 56) 0.3em 0.3em 0.3em;
+  }
+
+  #jumbo-title {
+      text-align: center;
+      font-size: 60px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+  }
+
+  #jumbo-lead {
+      text-align: center;
+      font-size: 21.5px;
+      font-weight: 700;
+      letter-spacing: 0.5px;
+  }
